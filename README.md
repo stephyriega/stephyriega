@@ -1,1 +1,1 @@
-Hi, I’m @stephyriega, an Economics student at PUCP. I’m interested in Applied Microeconomics and Data Sciense. You can reach me at @sriegae on Twitter or check out my [website](https://stephyriega.github.io/)
+Hi, I’m @stephyriega, an Economics student at PUCP. I’m interested in Applied Microeconomics and Data Sciense. You can reach me at @sriegae on Twitter or check out my [website](https://stephyriega.github.io/) . 
