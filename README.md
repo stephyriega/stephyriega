@@ -17,14 +17,6 @@ You can reach me at @sriegae on Twitter, write an email at riega.stephy@pucp.edu
 
 ### Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yoseph10&label=Profile%20views&color=0e75b6&style=flat" alt="Yoseph10" /> </p>
-
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=rmcondor&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmcondor&layout=compact)](https://github.com/stephyriega/github-readme-stats)
-
-
-
-[twitter]: https://twitter.com/sriegae
-[linkedin]: https://www.linkedin.com/in/stephy-r-17a984123/
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yoseph10&label=Profile%20views&color=0e75b6&style=flat" alt="stephyriega" /> </p>
 <!--
 
