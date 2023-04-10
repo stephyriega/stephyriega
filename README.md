@@ -1,5 +1,3 @@
-Hi, I’m @stephyriega, ¡
-
 ### Hi! I'm Stephy
 
 ### About me
