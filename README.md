@@ -1,7 +1,7 @@
 ### Hi! :)
 
 ### About me
-I am an Economist from PUCP and currently, I'm a Data Project Associate at [Ed & Crime Lab of the University of Chicago's Urban Labs](https://educationlab.uchicago.edu/). Previously, I have worked in [Group of Analysis for Development (GRADE)](https://www.grade.org.pe/) and in [Innovations for Poverty Actions](https://github.com/PovertyAction). 
+I am an Economist from PUCP and currently, I'm a Research Analyst at [Ed & Crime Lab of the University of Chicago's Urban Labs](https://educationlab.uchicago.edu/). Previously, I have worked in [Group of Analysis for Development (GRADE)](https://www.grade.org.pe/) and in [Innovations for Poverty Actions](https://github.com/PovertyAction). 
 
 I’m interested in Applied Microeconomics and Data Sciense and my field of interests are Education, Labor and Gender. 
 
